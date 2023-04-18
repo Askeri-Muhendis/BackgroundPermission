@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BackgroundPermission</string>
+    <string name="background_title">To receive personalized offers and deals near partner restaurants &amp; stores even without opening your app,please allow <big><b>Türkiye Finans</b></big> to use your location in the background</string>
+    <string name="background_sub_title"><big><b>Türkiye Finans</b></big> will use location to deliver you relevant offers at the right time &amp; location.</string>
 </resources>
